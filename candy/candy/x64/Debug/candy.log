@@ -1,0 +1,56 @@
+﻿  source.cpp
+C:\Coding\C++\candy\candy\source.cpp(308,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(595,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(595,65): warning C4244:         with
+C:\Coding\C++\candy\candy\source.cpp(595,65): warning C4244:         [
+C:\Coding\C++\candy\candy\source.cpp(595,65): warning C4244:             T=float
+C:\Coding\C++\candy\candy\source.cpp(595,65): warning C4244:         ]
+C:\Coding\C++\candy\candy\source.cpp(595,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(595,53): warning C4244:         with
+C:\Coding\C++\candy\candy\source.cpp(595,53): warning C4244:         [
+C:\Coding\C++\candy\candy\source.cpp(595,53): warning C4244:             T=float
+C:\Coding\C++\candy\candy\source.cpp(595,53): warning C4244:         ]
+C:\Coding\C++\candy\candy\source.cpp(596,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(596,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(603,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(603,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(620,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(620,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(631,82): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(642,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(642,71): warning C4244:         with
+C:\Coding\C++\candy\candy\source.cpp(642,71): warning C4244:         [
+C:\Coding\C++\candy\candy\source.cpp(642,71): warning C4244:             T=float
+C:\Coding\C++\candy\candy\source.cpp(642,71): warning C4244:         ]
+C:\Coding\C++\candy\candy\source.cpp(642,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(642,59): warning C4244:         with
+C:\Coding\C++\candy\candy\source.cpp(642,59): warning C4244:         [
+C:\Coding\C++\candy\candy\source.cpp(642,59): warning C4244:             T=float
+C:\Coding\C++\candy\candy\source.cpp(642,59): warning C4244:         ]
+C:\Coding\C++\candy\candy\source.cpp(644,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(644,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(653,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(653,74): warning C4244:         with
+C:\Coding\C++\candy\candy\source.cpp(653,74): warning C4244:         [
+C:\Coding\C++\candy\candy\source.cpp(653,74): warning C4244:             T=float
+C:\Coding\C++\candy\candy\source.cpp(653,74): warning C4244:         ]
+C:\Coding\C++\candy\candy\source.cpp(653,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(653,58): warning C4244:         with
+C:\Coding\C++\candy\candy\source.cpp(653,58): warning C4244:         [
+C:\Coding\C++\candy\candy\source.cpp(653,58): warning C4244:             T=float
+C:\Coding\C++\candy\candy\source.cpp(653,58): warning C4244:         ]
+C:\Coding\C++\candy\candy\source.cpp(655,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(654,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(662,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(662,74): warning C4244:         with
+C:\Coding\C++\candy\candy\source.cpp(662,74): warning C4244:         [
+C:\Coding\C++\candy\candy\source.cpp(662,74): warning C4244:             T=float
+C:\Coding\C++\candy\candy\source.cpp(662,74): warning C4244:         ]
+C:\Coding\C++\candy\candy\source.cpp(662,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(662,58): warning C4244:         with
+C:\Coding\C++\candy\candy\source.cpp(662,58): warning C4244:         [
+C:\Coding\C++\candy\candy\source.cpp(662,58): warning C4244:             T=float
+C:\Coding\C++\candy\candy\source.cpp(662,58): warning C4244:         ]
+C:\Coding\C++\candy\candy\source.cpp(664,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding\C++\candy\candy\source.cpp(663,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  candy.vcxproj -> C:\Coding\C++\candy\x64\Debug\candy.exe
